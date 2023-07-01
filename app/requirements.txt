@@ -1,0 +1,5 @@
+flask
+faust
+pyspark
+confluent-kafka
+tweepy

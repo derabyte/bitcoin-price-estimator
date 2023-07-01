@@ -1,0 +1,8 @@
+services:
+  app:
+    image: app-webserver
+    build:
+      context: app
+      dockerfile: app/Dockerfile
+    ports:
+      - 8080:8080
