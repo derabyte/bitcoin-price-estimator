@@ -1,1 +1,1 @@
-# bitcoin-price-estimator
+# Bitcoin Price Estimator
