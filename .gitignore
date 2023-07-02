@@ -3,3 +3,7 @@
 
 # Remove storage files
 .DS_Store
+
+# Remove cache files
+app/__pycache__/
+ap/*/__pychache__/
