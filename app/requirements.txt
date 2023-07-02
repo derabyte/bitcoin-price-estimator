@@ -3,3 +3,4 @@ faust
 pyspark
 confluent-kafka
 tweepy
+gunicorn
