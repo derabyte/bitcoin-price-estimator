@@ -2,5 +2,6 @@ flask
 faust
 pyspark
 confluent-kafka
-tweepy
-gunicorn
+twython>=3.9.1, <3.10
+gunicorn>=20.1.0, <20.2
+python-dotenv>=1.0.0, <1.1
